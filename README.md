@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.google.com/search?sca_esv=fdcf620e6fdd6b42&sxsrf=AE3TifNwLPJS3MIQ2ipZnlQnqOC6kc86pQ:1763436320558&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhYPURIv2wPgv_w_sE_0Sc6QqqU7k8cSQndc5mTXCIWHa5yWh8UZLeaMB2TzsL707pcnajOVzuG8nS7sxlcHlHT7piY8EJN1nt_1OxpO-4jRCM7y46MmzzMDHqGNST6xFea_Jb9OOjWE_EbrmKsB62WJGHF5nA&q=luffy+gear5+gif&sa=X&ved=2ahUKEwi3-OGb4PqQAxWsTWwGHYtXCnYQtKgLegQIFhAB&biw=1536&bih=776&dpr=1.25#vhid=TJb-qhq78lVb0M&vssid=mosaic" width="250" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fluffy-gear-5-498-x-498-gif-v4zhjgz9492ab6ph.html&psig=AOvVaw0uqaN4SdZFxj5hIgiqG5Eg&ust=1763522724475000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDBpaLg-pADFQAAAAAdAAAAABAE" width="250" />
 </p>
 
 ---
