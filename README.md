@@ -33,15 +33,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sudiplo&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiplo&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudiplo&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -49,11 +49,11 @@
 ## 🔥 Real-Time Profile Views & Activity Tracker  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=sudiplo&style=for-the-badge&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudiplo&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -73,4 +73,5 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-✨ _Replace `your-username` & social links to personalize your profile._
+✨ _Your README is now fully updated with your username **sudiplo**._  
+🚀 _Send me your social media links if you want me to integrate them too!_
