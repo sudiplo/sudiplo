@@ -62,9 +62,9 @@
 
 <p align="center">
   <a href="https://www.facebook.com/sudip.lo.bon"><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40"></a>
-  <a href="https://instagram.com/your-profile"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/fluency/48/twitter.png" width="40"></a>
+  <a href="https://www.instagram.com/lo_sudip/?hl=en"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"></a>
+  <a href="https://www.linkedin.com/in/sudip-lo-467bba382/?trk=opento_sprofile_details"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"></a>
+  
 </p>
 
 ---
