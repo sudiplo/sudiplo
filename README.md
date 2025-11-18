@@ -1,7 +1,7 @@
-<!-- Banner / Intro -->
 <h1 align="center">Hi there 👋, I'm Sudip</h1>
+
 <p align="center">
-  Passionate about coding, creative development, and building meaningful digital solutions.
+  Passionate Developer | Tech Explorer | Problem Solver  
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m constantly improving my development skills  
+## 🚀 About Me  
+- 🔭 Improving my development skills every day  
 - 🌱 Currently learning **Full-Stack Development**  
-- 🧠 Exploring new technologies & problem-solving  
-- ⚡ I love turning ideas into working applications  
+- 💡 I enjoy solving real-world challenges through code  
+- ⚡ Turning ideas into real applications is my passion  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,32 +30,35 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
+## 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Optional)
+## 🔥 Real-Time Profile Views & Activity Tracker  
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://facebook.com/your-profile"><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40"></a>
@@ -66,11 +69,8 @@
 
 ---
 
-### 🔥 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0e75b6&style=flat">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
----
-
-✨ _Replace `your-username` and your social links to personalize it!_
+✨ _Replace `your-username` & social links to personalize your profile._
