@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/3EtH.gif" width="250" />
+  <img src="https://gifdb.com/images/high/luffy-gear-5-498-x-498-gif-v4zhjgz9492ab6ph.gif" width="250" />
 </p>
 
 ---
